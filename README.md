@@ -7,15 +7,16 @@ This project is developed based on OpenDarkEden, an open-source project by Geniu
 炼狱刚上线那年，对标的是《天堂》这类牛逼爆炸奇幻网游。现如今这款游戏已不如路边一条，这与运营商、开发商的短视乃至地球人的短视不无关系。最近闲来翻阅旧帖，决定再挖一坑——争取在AI Agent爆发的奇点之后，
 将这些积累开源出来
 <img width="2364" height="1188" alt="示例" src="https://github.com/user-attachments/assets/40fd3659-c0f2-48a0-aa5f-1463a69b29b3" />
-目前已经实现；
-          aspk精灵的读取和写入
-          spk
-          ispk
-TODO：    SSPK （这非常简单，请自己补充）
-地图编辑器部分
-          目前实现了通用框架，开源出来已经可以正常显示地图
+##目前已经实现；
+- aspk精灵的读取和写入
+- spk
+- ispk
+##TODO：
+- SSPK （这非常简单，请自己补充）
+##地图编辑器部分
+- 目前实现了通用框架，开源出来已经可以正常显示地图
 TODO：
-          aspk效果动画，已经实现框架包efpk，调色板ppk的读取和写入，但目前我没有在呈现层绘制这些
+- aspk效果动画，已经实现框架包efpk，调色板ppk的读取和写入，但目前我没有在呈现层绘制这些
 ## Implemented Features
 - Reading and writing of ASPK sprites
 - Reading and writing of SPK files
