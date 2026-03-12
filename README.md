@@ -16,7 +16,19 @@ TODO：    SSPK （这非常简单，请自己补充）
           目前实现了通用框架，开源出来已经可以正常显示地图
 TODO：
           aspk效果动画，已经实现框架包efpk，调色板ppk的读取和写入，但目前我没有在呈现层绘制这些
+## Implemented Features
+- Reading and writing of ASPK sprites
+- Reading and writing of SPK files
+- Reading and writing of ISPK files
 
+## TODO List
+- SSPK (This is extremely simple, please implement it yourself)
+
+## Map Editor Module
+- A universal framework has been implemented; the open-sourced version can display maps normally
+
+## TODO List (Map Editor)
+- ASPK effect animations: The framework package (EFPK) and palette (PPK) reading/writing have been implemented, but I have not yet rendered these in the presentation layer.
           
 以下是对 DarkEden 客户端地图系统的核心技术梳理，专为计划开发地图编辑器、研究游戏底层架构的开发者整理：
 一、坐标系统
